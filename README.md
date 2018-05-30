@@ -15,6 +15,10 @@ Then, you must download necessary functions using this string:
 
 ```source("https://raw.githubusercontent.com/assaron/r-utils/master/R/exprs.R")```
 
+## Result examples
+
+![Active module](https://github.com/flowdel/diff_gene_expression/blob/master/ESC_OKSM_mcmc_last.pdf)
+
 ## Databases
 
 1. mouse4302 database for expression set annotation;
