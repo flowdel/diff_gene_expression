@@ -12,9 +12,10 @@ Local computer with RStudio and following libraries:
 BioNet, DLBCL, ggplot2, Hmisc, sqldf, igraph, dplyr, tidyr, MASS, affy, limma, oligo, pd.mogene.2.0.st,
 genefilter, mouse4302.db, annotate, annaffy, knitr, mwcsr, mcmcRanking, rlist. 
 Then, you must download necessary functions using this string:
+
 ```source("https://raw.githubusercontent.com/assaron/r-utils/master/R/exprs.R")```
 
 ## Databases
 
 1. mouse4302 database for expression set annotation;
-2. [InWeb-IM](https://omictools.com/inweb-inbiomap-tool) database of protein-protein ineractions]
+2. [InWeb-IM](https://omictools.com/inweb-inbiomap-tool) database of protein-protein ineractions.
