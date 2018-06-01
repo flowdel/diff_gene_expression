@@ -19,6 +19,10 @@ Then, you must download necessary functions using this string:
 
 ![Active module](https://github.com/flowdel/diff_gene_expression/blob/master/ESC_OKSM_mcmc_last.pdf)
 
+
+![Beta-uniform distributed p-values with 'a' value = 0.5 ](https://github.com/flowdel/diff_gene_expression/blob/master/0_5_a.png)
+![Beta-uniform distributed p-values with 'a' value = 0.8](https://github.com/flowdel/diff_gene_expression/blob/master/0_8_a.png)
+
 ## Databases
 
 1. mouse4302 database for expression set annotation;
