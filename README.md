@@ -19,8 +19,11 @@ Then, you must download necessary functions using this string:
 
 ![Active module](https://github.com/flowdel/diff_gene_expression/blob/master/ESC_OKSM_mcmc_last.pdf)
 
+As a result you can obtain samples with average comparison p-values distributed as Beta-uniform, and this BU distribution shaped by 'a' value, which is defined by yourself.
 
+**Simulated sample with Beta-uniform distributed p-values with 'a' value = 0.5**
 ![Beta-uniform distributed p-values with 'a' value = 0.5 ](https://github.com/flowdel/diff_gene_expression/blob/master/0_5_a.png)
+**Simulated sample with Beta-uniform distributed p-values with 'a' value = 0.8**
 ![Beta-uniform distributed p-values with 'a' value = 0.8](https://github.com/flowdel/diff_gene_expression/blob/master/0_8_a.png)
 
 ## Databases
